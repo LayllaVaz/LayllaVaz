@@ -15,7 +15,6 @@
 <div style="display: inline_block"><br/> 
      <img src="https://img.shields.io/badge/Power%20Bi-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=apple&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
     <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
