@@ -31,3 +31,7 @@
 Minha paixão por transformar dados brutos em insights significativos é alimentada pela minha formação acadêmica e experiência profissional. 
 Estou estudando para obter a certificação PL-300: Analista de Dados do Microsoft Power Bi, um testemunho do meu compromisso em me tornar uma especialista na área. Meu portfólio demonstra minha habilidade em utilizar o Power BI para criar visualizações de dados envolventes e informativas que não apenas atendem mas superam as expectativas dos clientes.</p>
 </div><br/>
+
+
+
+![Snake animation](https://github.com/LayllaVaz/LayllaVaz/blob/output/github-contribution-gid-snake.svg)
