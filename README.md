@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+     <img scr="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </div><br/>
 
 ## Sobre Mim
