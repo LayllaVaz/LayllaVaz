@@ -1,5 +1,5 @@
 
-## Seja Bem-vindo! Eu sou a Laylla Vaz 😊
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Seja+Bem-vindo!+Eu+sou+a+Laylla+Vaz+" alt="Typing SVG" /></a>
 
 <div> 
      <a href="https://www.linkedin.com/in/laylla-vaz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,3 +34,9 @@
 Minha paixão por transformar dados brutos em insights significativos é alimentada pela minha formação acadêmica e experiência profissional. 
 Estou estudando para obter a certificação PL-300: Analista de Dados do Microsoft Power Bi, um testemunho do meu compromisso em me tornar uma especialista na área. Meu portfólio demonstra minha habilidade em utilizar o Power BI para criar visualizações de dados envolventes e informativas que não apenas atendem mas superam as expectativas dos clientes.</p>
 </div><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture><br/>
